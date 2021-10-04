@@ -1,0 +1,39 @@
+Design pattern:
+4 Tier Model / C#
+
+First tasks
+Github opzetten / Job
+MongoDB connectie
+Design maken / Faruk (Adobe XD)
+
+Main Application
+Per rol eigen functionaliteiten / Nick-Ryan
+
+Dashboard / Job
+Gepersonaliseerd aan rol
+Button met “SHOW LIST”
+Een vakje met een overzicht over “unresolved incidents”
+Een vakje met een overzicht over “Incidents past deadline” 
+
+Incident management / Faruk
+Lijst met alle tickets
+Button met “Create Ticket”
+CRUD systeempje
+Bovenin een zoekfilter by email
+
+User management / Nick-Ryan
+Lijst met alle users
+Button met “Create user”
+CRUD systeempje
+Bovenin een zoekfilter by email
+
+Individueel
+Faruk: Sorteren van ticket lijst. Verschillende sorteringen.
+Job: Een vakje met een overzicht over “resolved incidents”
+Nick-Ryan: Login systeem
+
+
+Kleurcode
+
+
+
